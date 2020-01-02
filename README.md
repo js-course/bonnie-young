@@ -1,2 +1,2 @@
-# template
+# JS
 hello
